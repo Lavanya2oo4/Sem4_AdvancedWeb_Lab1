@@ -1,0 +1,11 @@
+#amountDiv{
+    border:1px solid rgb(148, 147, 147);
+    margin:2% auto;
+    width: max-content;
+    padding: 0.5% 3%;
+    font-size: 3vh;
+    
+
+}
+#amountDiv>b{
+}

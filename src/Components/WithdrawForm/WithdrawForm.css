@@ -1,0 +1,18 @@
+#withdrawDiv{
+    border:1px solid black;
+    margin: auto;
+    width: 60%;
+    padding: 2% 5%;
+}
+
+#formControl{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 2% 3%;
+}
+
+#formControl>button{
+    padding: 1% 3%;
+    cursor: pointer;
+}

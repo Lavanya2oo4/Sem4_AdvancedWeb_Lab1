@@ -1,0 +1,6 @@
+#customBtn{
+    height: 4vh;
+    width: fit-content;
+    padding: 3px 10px;
+    cursor: pointer;
+}
